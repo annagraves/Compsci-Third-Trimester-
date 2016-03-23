@@ -12,6 +12,6 @@ Notes:
 -Allergy app
   -Filter ingredients allergy
   -Notifications when foods are mislabeled 
-  -Work with FARE?
+  -Work with FARE
 
 ## 3/23/16:
