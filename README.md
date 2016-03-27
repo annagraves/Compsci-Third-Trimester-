@@ -17,6 +17,8 @@ Questions:
 
 -Why does it assume "Y" if I type "I want to stay home" for lession 2? 
 
+
+## 3/23/16:
 Notes:
 
 -Allergy app
@@ -27,4 +29,10 @@ Notes:
   
   -Work with FARE?
 
-## 3/23/16:
+## 3/24/16:
+Space Adventure Lession 3
+  
+## 3/27/16:
+Space Adventure Lession 4
+
+Questions:
