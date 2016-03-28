@@ -33,7 +33,7 @@ Notes:
 Space Adventure Lession 3
   
 ## 3/27/16:
-Space Adventure Lession 4 & 5
+Space Adventure Lession 4, 5, 6 & 7
 
 Questions:
 
@@ -46,3 +46,15 @@ Questions:
 -Is the keyword "func" used for methods only? 
 
 -Why do we need a "start" method? To clean up the code? Why wouldn't we have everything in the same place? 
+
+-What is the difference between the public, internal and private acess levels in swift? 
+
+-Why was the private func responseToPrompt created?
+
+-Why does let name = responseToPrompt("What is your name?") do the same thing as print("What is your name?")
+
+-What is a property declaration? 
+
+-What are initializers? 
+
+-What are Swift arrays and collection types? 
