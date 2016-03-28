@@ -33,7 +33,7 @@ Notes:
 Space Adventure Lession 3
   
 ## 3/27/16:
-Space Adventure Lession 4, 5, 6 & 7
+Space Adventure Lession 4, 5, 6, 7 & 8
 
 Questions:
 
