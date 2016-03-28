@@ -33,6 +33,16 @@ Notes:
 Space Adventure Lession 3
   
 ## 3/27/16:
-Space Adventure Lession 4
+Space Adventure Lession 4 & 5
 
 Questions:
+
+-Explain the convention of using an individual file to contain a single class definition
+
+-Review concept of classes and methods
+
+-What is the difference between Swift classes and structures?
+
+-Is the keyword "func" used for methods only? 
+
+-Why do we need a "start" method? To clean up the code? Why wouldn't we have everything in the same place? 
