@@ -27,7 +27,7 @@ Notes:
   
   -Notifications when foods are mislabeled 
   
-  -Work with FARE?
+  -Work with FARE (Food Allergy Research & Education)?
 
 ## 3/24/16:
 Space Adventure Lession 3
