@@ -71,3 +71,5 @@ Allergy app notes cont.
   -Push notifications about allergy alerts (reason: protects people against undeclared allergens) 
   
   -Filter ingredients in food by allergy (reason: if someone didn't have the packaging) 
+  
+  -Informational news articles (reason: education) 
