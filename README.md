@@ -19,9 +19,7 @@ Questions:
 
 
 ## 3/23/16:
-Notes:
-
--Allergy app
+-Allergy app notes:
 
   -Filter ingredients allergy
   
@@ -58,3 +56,18 @@ Questions:
 -What are initializers? 
 
 -What are Swift arrays and collection types? 
+
+## 4/1/16
+Allergy app notes cont.
+
+-To do: 
+
+  -Contact FARE 
+
+  -Figure out how fitness/health apps have a database of food nutrition facts 
+
+-App structure:
+
+  -Push notifications about allergy alerts (reason: protects people against undeclared allergens) 
+  
+  -Filter ingredients in food by allergy (reason: if someone didn't have the packaging) 
