@@ -73,3 +73,10 @@ Allergy app notes cont.
   -Filter ingredients in food by allergy (reason: if someone didn't have the packaging) 
   
   -Informational news articles (reason: education) 
+  
+  ## 4/1/16
+  Allergy app notes cont. 
+  
+  -New plan: 
+    -App with emergency care program that can translate to any language 
+    -Would ask user questions to set up card 
